@@ -1,0 +1,95 @@
+        body {
+            background-color: #121212db;
+            font-family: "Times New Roman", Times, serif;
+            color: #ffffff;
+        }
+
+        .main-section {
+            background-color: #12121299;
+            padding: 40px 20px;
+            margin: 20px auto;
+        }
+
+        .main-heading {
+            font-size: 32px;
+            font-weight: bold;
+            letter-spacing: 1px;
+            text-transform: uppercase;
+            margin-bottom: 5px;
+            color: rgba(135, 229, 135, 0.589);
+        }
+
+        .sub-heading {
+            font-family: "Brush Script MT", cursive, sans-serif;
+            font-size: 28px;
+            font-style: italic;
+            color: #e0e0e0;
+            margin-bottom: 35px;
+        }
+
+        /* Event Card Base Styling */
+        .event-card {
+            border-radius: 15px;
+            padding: 15px;
+            color: #000000;
+            height: 100%;
+            border: none;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+        }
+
+        /* Individual Card Background Colors matching the image */
+        .card-1 {
+            background-color: #a58f74; 
+        }
+
+        .card-2 {
+            background-color: #a197c9; 
+        }
+
+        .card-3 {
+            background-color: #b5d2df; 
+        }
+
+        .card-4 {
+            background-color: #b8cfb6; 
+        }
+
+        .card-5 {
+            background-color: #c9ab88; 
+        }
+
+        .event-img {
+            width: 100%;
+            height: 400px;
+            object-fit: cover;
+            border-radius: 8px;
+            margin-bottom: 15px;
+        }
+
+        .event-title {
+            font-size: 18px;
+            font-weight: bold;
+            text-align: center;
+            margin-bottom: 12px;
+            line-height: 1.2;
+        }
+
+        .event-desc {
+            font-size: 14px;
+            font-style: italic;
+            line-height: 1.4;
+            margin-bottom: 18px;
+            text-align: left;
+        }
+
+        .event-details {
+            font-size: 14px;
+            font-style: italic;
+            margin-bottom: 8px;
+        }
+
+        .event-details b {
+            font-style: normal;
+        }
+
+         
